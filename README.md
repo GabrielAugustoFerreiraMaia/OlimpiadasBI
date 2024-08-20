@@ -4,8 +4,9 @@ Este repositório contém uma aplicação para analisar e visualizar dados dos J
 
 ## Conteúdo
 
-- `olympics_2024.csv`: O dataset com informações sobre medalhas e países vencedores.
+- `olympics_2024.csv`: O dataset com informações sobre medalhas e países vencedores. **Este dataset foi obtido do [Kaggle](https://www.kaggle.com/datasets/x1akshay/olympics-2024?resource=download)**.
 - `olympics_analysis.ipynb`: Notebook Jupyter (ou Google Colab) para análise e visualização dos dados.
+
 
 ## Colunas do Dataset
 
